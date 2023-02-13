@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>service_catalog</name>
+        <order>700</order>
+        <roles>catalog,itil,catalog_manager,catalog_editor,sn_request_write</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2005-05-12 13:47:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path/>
+        <sys_id>d128ead2c0a8016501c6bbd3f9c03678</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Service Catalog</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Service Catalog Platform" source="com.glideapp.servicecatalog.platform">911817e230551110c0a0ea25b2816b73</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RFF Deployment Application">16ea407847012110f76b23dbd36d439f</sys_scope>
+        <sys_update_name>sys_app_application_d128ead2c0a8016501c6bbd3f9c03678</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-13 13:53:25</sys_updated_on>
+        <title>Service Catalog</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="RFF Deployment Application">16ea407847012110f76b23dbd36d439f</claim_owner_scope>
+        <claim_timestamp>1864b0d423e0000001</claim_timestamp>
+        <metadata_update_name>sys_app_application_d128ead2c0a8016501c6bbd3f9c03678</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>RFF Deployment Application</previous_claim_name>
+        <previous_claim_scope>16ea407847012110f76b23dbd36d439f</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-13 13:53:25</sys_created_on>
+        <sys_id>ed6b4c3847012110f76b23dbd36d4347</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-13 13:53:25</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="RFF Deployment Application">16ea407847012110f76b23dbd36d439f</claim_owner_scope>
+        <claim_timestamp>1864b0d423a0000001</claim_timestamp>
+        <metadata_update_name>sys_app_application_d128ead2c0a8016501c6bbd3f9c03678</metadata_update_name>
+        <previous_claim_app_version/>
+        <previous_claim_name>com.glideapp.servicecatalog.platform</previous_claim_name>
+        <previous_claim_scope>com.glideapp.servicecatalog.plat</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-13 13:53:25</sys_created_on>
+        <sys_id>ed6b4c7847012110f76b23dbd36d43fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-13 13:53:25</sys_updated_on>
+    </sys_claim>
+</record_update>
